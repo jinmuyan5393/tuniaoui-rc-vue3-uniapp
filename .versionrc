@@ -1,0 +1,9 @@
+{
+  "skip": {
+    "bump": false,
+    "changelog": true,
+    "commit": false,
+    "tag": false
+  }
+}
+

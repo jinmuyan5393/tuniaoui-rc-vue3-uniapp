@@ -1,32 +1,19 @@
 {
-  "name": "@tuniao/tnui-vue3-uniapp",
-  "version": "1.0.20",
-  "description": "TuniaoUI for vue3 uniapp",
+  "name": "@zhonghe/ui",
+  "version": "1.0.2",
+  "description": "zhUI for vue3 app",
   "keywords": [
-    "tn",
-    "tuniao",
-    "tuniao-ui",
-    "图鸟",
     "uniapp",
     "uniapp组件",
     "vue3 uniapp组件",
     "ui 框架"
   ],
-  "license": "Apache 2.0",
-  "author": "Tuniao Technology Co., Ltd.",
+  "license": "MIT",
+  "author": "zhonghe",
   "publishConfig": {
     "access": "public"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp"
-  },
-  "bugs": {
-    "url": "https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp/issues"
-  },
   "peerDependencies": {
-    "@tuniao/tn-icon": "^1.4.0",
-    "@tuniao/tn-style": "^1.0.17",
     "sass": "^1.61.0",
     "typescript": "^5.1.6",
     "vue": "^3.2.47"
@@ -46,8 +33,6 @@
     "@dcloudio/uni-mp-weixin": "3.0.0-alpha-3080720230627002",
     "@dcloudio/uni-mp-xhs": "3.0.0-alpha-3080720230627002",
     "@dcloudio/uni-quickapp-webview": "3.0.0-alpha-3080720230627002",
-    "@tuniao/tn-icon": "^1.4.0",
-    "@tuniao/tn-style": "^1.0.14",
     "vue": "^3.2.47",
     "vue-i18n": "^9.2.2"
   },
